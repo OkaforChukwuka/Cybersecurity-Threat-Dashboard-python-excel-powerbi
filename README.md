@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Threats Overview Dashboard — Power BI | Python | Excel
 
-![Cybersecurity Dashboard](./Screenshot_2025-05-14_082837.jpg)
+![Cybersecurity Dashboard](https://github.com/OkaforChukwuka/Cybersecurity-Threat-Dashboard-python-excel-powerbi/blob/main/Screenshot%202025-05-14%20082709.jpg?raw=true)
 
 ## 📌 Overview
 This project presents a global cybersecurity threat analysis dashboard, highlighting incidents by region, threat types, source systems, and resolution status. It was built using Python for data handling, Excel for transformation, and Power BI for visual storytelling.
